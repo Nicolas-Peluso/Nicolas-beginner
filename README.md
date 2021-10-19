@@ -1,4 +1,4 @@
-<h3>Ola! Sou Nicolas Peluso</h3>
+<h3 sttyle="text-align: center">Ola! Sou Nicolas Peluso</h3>
 
 <div>
   <a href="https://github.com/Nicolas-beginner">
