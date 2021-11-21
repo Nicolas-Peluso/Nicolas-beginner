@@ -29,8 +29,8 @@
 <div>
   <h3>O Que estou fazendo?</h3>
   <ul>
-  <li>📘 - Estou atualmente estudando: React</li>
+  <li>📘 - Estou atualmente estudando: css com Sass</li>
   <li>✉️ - Contate-me no Email: nicolaspeluso125@gmail.com</li>
-  <li>➡️ - Proxima Tecnologia: css Com Sass</li>
+  <li>➡️ - Proxima Tecnologia: vueJs</li>
 </ul>
 </div>
